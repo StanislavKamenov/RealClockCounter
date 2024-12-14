@@ -19,7 +19,7 @@ This project is a simple yet elegant digital clock built using **HTML**, **CSS**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RealClockCounter.git
+   git clone https://github.com/StanislavKamenov/RealClockCounter.git
    ```
 2. Open the `index.html` file in your browser.
 3. The clock will start displaying the current time automatically.
