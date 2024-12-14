@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    font-family: "Titillium Web", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock-holder {
+    width: 40vh;
+    height: 30vh;
+    padding: 1vh;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    border-radius: 20rem;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
